@@ -9,15 +9,15 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
-          Hello Grace
+          <br>Hello Grace</br>
         </p>
         <a
           className="App-link"
           href="https://reactjs.org"
           target="_blank"
-          rel="noopener noreferrer"
+          rel="noopener noreferrerß"
         >
-          Learn React
+          Learn React !!
         </a>
       </header>
     </div>
